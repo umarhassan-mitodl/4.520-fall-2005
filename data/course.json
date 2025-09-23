@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ]
+  ],
+  "legacy_uid": "84d7293d-3873-b709-d5d2-006b318890af",
+  "instructors": {
+    "content": [
+      "99cffc08-7525-7294-9903-45aa5af8b90d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "464a8008-f971-b2ab-72cb-121b1a53ed4b",
+    "website": "4-520-computational-design-i-theory-and-applications-fall-2005"
+  },
+  "course_title": "Computational Design I: Theory and Applications",
+  "course_description": "This class introduces design as a computational enterprise in which rules are developed to compose and describe architectural and other designs. The class covers topics such as shapes, shape arithmetic, symmetry, spatial relations, shape computations, and shape grammars. It focuses on the application of shape grammars in creative design, and teaches shape grammar fundamentals through in-class, hands-on exercises with abstract shape grammars. The class discusses issues related to practical applications of shape grammars.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "4.521",
+  "primary_course_number": "4.520",
+  "course_image_thumbnail": {
+    "content": "64cac5cc-31d0-7c46-24e5-69fc42d5da29",
+    "website": "4-520-computational-design-i-theory-and-applications-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "e3043cd6-6a5a-4bae-84a2-3fce30b88c26",
+  "site_short_id": "4.520-fall-2005",
+  "site_url_path": "courses/4-520-computational-design-i-theory-and-applications-fall-2005",
+  "title": "Course Metadata"
+}
