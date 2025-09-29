@@ -5,6 +5,8 @@ description: This resource lists the lecture notes on symmetry as per the topics
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/6f46db37a1ec0307dcb816f3e66881cc_lect7.pdf
 file_size: 777007
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource lists the lecture notes by andrea palladio as per the
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/86b69a4d295c2ba780e1a28f849f40db_palladio.pdf
 file_size: 395540
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

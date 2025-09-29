@@ -5,6 +5,8 @@ description: This resource lists the lecture notes on computational design as pe
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/c05b885551da8441c33f00d1b18f3bcf_lect1.pdf
 file_size: 4015177
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

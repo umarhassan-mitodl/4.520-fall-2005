@@ -5,6 +5,8 @@ description: This resource lists the lecture notes on basic grammars as per the 
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/e9cbcf19f1b633460b08c72c8cad8523_lect8.pdf
 file_size: 1436448
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

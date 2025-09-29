@@ -5,6 +5,8 @@ description: This resource lists the lecture notes on basic elements as per the 
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/0119aadaa3cb70f5a52cffd1bbe2fb44_lect2.pdf
 file_size: 736570
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

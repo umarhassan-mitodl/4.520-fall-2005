@@ -34,7 +34,7 @@ Shape Arithmetic
 Shape Rules
 
 {{< tdclose >}}{{< tdopen >}}
-Knight, Terry. "{{% resource_link "af4720e6-f72b-4c7a-9a3f-b28778ff0e2e" "Shape Grammars in Education and Practice: History and Prospects" %}}."
+Knight, Terry. "[Shape Grammars in Education and Practice: History and Prospects](http://www.mit.edu/~tknight/IJDC/)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -61,9 +61,9 @@ Sims, Karl. "Artificial Evolution for Computer Graphics." _Computer Graphics_ 25
 
 Cohen, Harold. "The Further Exploits of Aaron, Painter." _Stanford Humanities Review_.
 
-———. {{% resource_link "6232f606-e358-4d5d-a28b-cf2c3193917c" "AARON: Genetics and Culture" %}}.
+———. [AARON: Genetics and Culture](http://geneticsandculture.com/genetics_culture/pages_genetics_culture/gc_w05/cohen_h.htm).
 
-———. {{% resource_link "7a5ccef8-8ae3-46ca-94e7-3fc595a8b287" "AARON: A Product of Kurzweil CyberArt Technologies" %}}.
+———. [AARON: A Product of Kurzweil CyberArt Technologies](http://www.kurzweilcyberart.com/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5

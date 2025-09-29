@@ -5,6 +5,8 @@ description: This resource lists the lecture notes on shape grammar as per the t
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/07eb8fda11a35cf9d58e88485fd2c821_lect3.pdf
 file_size: 742027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
