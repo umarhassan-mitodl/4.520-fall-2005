@@ -5,8 +5,6 @@ description: This resource lists the lecture notes on emergence and predictabili
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/4b2d801a567288b9b65f800c71aba250_emergence.pdf
 file_size: 531137
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

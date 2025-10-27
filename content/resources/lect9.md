@@ -5,8 +5,6 @@ description: This resource lists the lecture notes on hierarchy of shape grammar
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/1fc1a63e2c4c6d0f5a67fdb57352b368_lect9.pdf
 file_size: 186015
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

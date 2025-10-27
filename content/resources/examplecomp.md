@@ -5,8 +5,6 @@ description: This resource contains the example on shapes as per the topics cove
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/5d065dd83333fccdb14865f4900954d7_examplecomp.pdf
 file_size: 16933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

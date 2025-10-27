@@ -5,8 +5,6 @@ description: This resource lists the lecture notes on corpus of existing designs
 file: /courses/4-520-computational-design-i-theory-and-applications-fall-2005/63b961c018e4d0915f21716672c75178_lect5.pdf
 file_size: 247087
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
